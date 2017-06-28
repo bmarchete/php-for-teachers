@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title></title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/style.css" rel="stylesheet">
-    </head>
-    <body>
-    
-    </body>
-</html>
+<?php
+
+
+$a = [];
+
+$a[] = 1 ;
+$a[] = 2 ;
+$a[] = 3 ;
+$a[] = 4 ;
+$a[] = 5 ;
