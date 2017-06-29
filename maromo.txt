@@ -1,3 +1,0 @@
-README.md
-index.php
-maromo.txt
