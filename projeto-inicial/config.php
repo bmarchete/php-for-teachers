@@ -1,10 +1,13 @@
 <?php
-//declaração dos namespaces dos controladores
+//declaração dos namespaces dos controladores e instanciação dos objetos
 use Project\Controller\TabelaController;
-
-
-
-//declaração dos controladores;
 $tabelaController = new TabelaController();
 
 
+//configuração do banco de dados
+$_ENV['config'] = [
+    'host' => 'localhost',
+    'dbname' => 'bd',
+    'user' => 'root',
+    'password' => ''
+];

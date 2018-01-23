@@ -11,8 +11,7 @@ class TabelaController
     {
         
         $q = new QueryBuilder();
-        $dados = $q->select('tabela');
-
+        $dados = $q->select('alunos');
         require './app/views/tabela/index.php';
     }
 

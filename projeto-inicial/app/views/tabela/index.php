@@ -21,12 +21,12 @@
             </thead>
 
             <tbody>
-                               
-                    <tr>
-                        <td>Dado1</td>
-                        <td>Dado2</td>
-                    </tr>
-                               
+                    
+                        <tr>
+                            <td>Dado1</td>
+                            <td>Dado2</td>
+                        </tr>
+                           
             </tbody>
 
         </table>
