@@ -4,7 +4,7 @@ Este repositório armazena os slides e projetos desenvolvidos no treinamento de 
 
 Links Úteis:
 
-Gists com trechos de código php
+## Gists com trechos de código php
 
 https://gist.github.com/bmarchete/14e5618aca22a70dfb51e671cd3c8c5e
 
@@ -14,7 +14,8 @@ https://gist.github.com/bmarchete/d313098918693594ff7f4071309bf80e
 
 https://gist.github.com/bmarchete/f2df6df70ac98ebd26f22e8028749ac2
 
-Práticas com git+github: :octocat:
+
+## Práticas com git+github: :octocat:
 
 https://youtu.be/v_W8B8QVrYo
 
@@ -22,7 +23,7 @@ https://youtu.be/vvn2ZKnT_e8
 
 <br>
 
-Práticas com arrays: :eyes:
+## Práticas com arrays: :eyes:
 
 https://youtu.be/qhLskEIxd2Q
 
@@ -30,17 +31,20 @@ https://git.io/vHjIn
 
 <br>
 
-Práticas com composer: :tongue:
+## Práticas com composer: :tongue:
 
 https://youtu.be/-hAtoNWOE04
 
 <br>
 
-Práticas com PDO: :wave:
+## Práticas com PDO: :wave:
 
 https://youtu.be/BQhBGhtvNqw
 
 https://git.io/vQlAl
 
+## Atividades
+
+Atividade 1 - https://gist.github.com/bmarchete/478797eefb1ce9ae9a421513c868ade3
 
 
